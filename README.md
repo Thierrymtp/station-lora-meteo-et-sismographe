@@ -1,3 +1,7 @@
+This project is a fork from richonguzman/LoRa_APRS_Wx_Station to integrate Seismometer
+
+
+
 # CA2RXU LoRa APRS Wx Station
 
 This firmware is for using ESP32 based boards with LoRa Modules to send Wx Data into APRS by adding Temperature, Pressure, Humidity, Luminance, Rain, Wind Speed and Direction sensor.
