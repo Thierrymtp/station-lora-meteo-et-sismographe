@@ -7,7 +7,7 @@ This firmware is for using ESP32 based boards with LoRa Modules to send Wx Data 
 # Prerequisites
 - ESP32 Board
 - ADS1115/ADS1015
-- Geograph SM-24
+- Geophone SM-24
 - BME280
 - And probably another things...
 
