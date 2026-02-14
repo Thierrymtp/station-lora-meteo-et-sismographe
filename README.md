@@ -10,21 +10,7 @@ This firmware is for using ESP32 based boards with LoRa Modules to send Wx Data 
 - Geograph SM-24
 - BME280
 - And probably another things...
-![ADS1115/ADS1015](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/ADS1115-ADS1015.jpg)
-![SM-24](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/LGT-SM24.jpg)
-
-
-
-
-
-
-
-____________________________________________________
-
-## You can support this project to continue to grow:
-
-[<img src="https://github.com/richonguzman/LoRa_APRS_Tracker/blob/main/images/github-sponsors.png">](https://github.com/sponsors/richonguzman)     [<img src="https://github.com/richonguzman/LoRa_APRS_Tracker/blob/main/images/paypalme.png">](http://paypal.me/richonguzman)
-
+![ADS1115/ADS1015](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/ADS1115-ADS1015.jpg)![SM-24](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/LGT-SM24.jpg)
 
 ____________________________________________________
 
@@ -40,7 +26,6 @@ ____________________________________________________
 
 
 ![Screenshot](https://github.com/richonguzman/LoRa_APRS_Wx_Station/blob/main/images/Wx_Station_Side.jpeg)
-
 (Image Credits: Giovanni Ratto IW1QAF)
 
 ____________________________________________________
@@ -55,4 +40,4 @@ Some code from _Patrick TK5EP_ with his great repository https://github.com/tk5e
 
 ____________________________________________________
 
-# Hope You Enjoy this, 73 !!  CA2RXU , Valparaiso, Chile
+# Hope You Enjoy this, 73 !! French riviera, France
