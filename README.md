@@ -12,6 +12,16 @@ This firmware is for using ESP32 based boards with LoRa Modules to send Wx Data 
 - And probably another things...
 ![ADS1115/ADS1015](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/ADS1115-ADS1015.jpg)![SM-24](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/LGT-SM24.jpg)
 
+# Initial source :
+<a href="https://www.seismometer.info/seismograph-alpha-version-based-on-esp32-ads1115-and-sm24/" target="_blank">https://www.seismometer.info/seismograph-alpha-version-based-on-esp32-ads1115-and-sm24/</a>
+<a href="https://github.com/richonguzman/LoRa_APRS_Wx_Station" target="_blank">richonguzman/LoRa_APRS_Wx_Station</a>
+
+
+
+
+
+
+
 ____________________________________________________
 
 # WIKI
