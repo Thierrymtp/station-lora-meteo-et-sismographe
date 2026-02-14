@@ -1,10 +1,23 @@
 This project is a fork from richonguzman/LoRa_APRS_Wx_Station to integrate Seismometer
 
+# Thierrymtp LoRa APRS Wx Station & Sysmograph
+
+This firmware is for using ESP32 based boards with LoRa Modules to send Wx Data and Sysmograph into APRS by adding Temperature, Pressure, Humidity, Luminance, Rain, Wind Speed, Direction, Sysmograph sensor.
+
+# Prerequisites
+- ESP32 Board
+- ADS1115/ADS1015
+- Geograph SM-24
+- BME280
+- And probably another things...
+![ADS1115/ADS1015](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/ADS1115-ADS1015.jpg)
+![SM-24](https://github.com/Thierrymtp/station-lora-meteo-et-sismographe/blob/main/images/LGT-SM24.jpg)
 
 
-# CA2RXU LoRa APRS Wx Station
 
-This firmware is for using ESP32 based boards with LoRa Modules to send Wx Data into APRS by adding Temperature, Pressure, Humidity, Luminance, Rain, Wind Speed and Direction sensor.
+
+
+
 
 ____________________________________________________
 
